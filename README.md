@@ -1,2 +1,2 @@
 # election
-Experiments in mapping election results (2016)
+Experiments in mapping US presidential election results (2016)
